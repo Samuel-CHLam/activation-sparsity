@@ -1,7 +1,7 @@
 # Deep Neural Network Initialization with Sparsity Inducing Activations
 Submitted to ICLR 2024 (awaiting final decision), accepted in CPAL 2024 (Poster, non-archival spotlight track). Will be available on arXiv soon.
 
-- CPAL 2024 Poster
+- [CPAL 2024 Poster](https://github.com/Samuel-CHLam/activation-sparsity/blob/main/Sparse_Activation_EOC_Poster.pdf)
 - [Latest version of conference paper (ICLR 2024 OpenReview page)](https://openreview.net/forum?id=uvXK8Xk9Jk&noteId=DY1IL28Qdu)
 - [CPAL version of conference paper (CPAL 2024 OpenReview page)](https://openreview.net/forum?id=QV5qqLfcYy)
 
